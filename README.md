@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Netranetra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Netranetra/Netranetra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-k
+apt install python
+pip install pycurl
+pip install certifi
+pip install mechanize
+pip install requests bs4
+apt install git
+git clone https://github.com/netranetra/fcpro.git
+pkg install kona 
