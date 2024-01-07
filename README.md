@@ -7,3 +7,4 @@ pip install requests bs4
 apt install git
 cd /sdcard
 python fucku.py
+https//:GitHub.com/Netranetra
